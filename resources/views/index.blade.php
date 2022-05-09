@@ -7,10 +7,7 @@
                 <div class="card">
                     <div class="card-body">
                         <div class="row justify-content-center">
-
                             Bienvenido a sistema CRUD con laravel, empecemos a ver los registros
-
-
                         </div>
                         <div class="row justify-content-center">
                             <form action="{{ route('dashboard') }}" method="get">
